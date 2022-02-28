@@ -1,0 +1,5 @@
+CONTAINERS: hiota-egress,minio,hiota-ingress-amqp,hiota-rabbitmq
+COUCH_PW: Passw0rd
+HOSTS: xor-m90,xor-m91,xor-m92
+INTERFACES: enp192
+IPS: 192.168.45.90,192.168.45.91,192.168.45.92

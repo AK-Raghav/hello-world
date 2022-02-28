@@ -1,0 +1,13 @@
+NODE_RUN_PATH: "/var/tmp/node_stat"
+FILE_POST_CPU_INFO: "_cpu_info.log"
+FILE_POST_DISK_BLOCK_INFO: "_disk_block_info.log"
+FILE_POST_DISK_IO_INFO: "_disk_io_info.log"
+FILE_POST_IOSTAT_INFO: "_iostat_info.log"
+FILE_POST_MEMORY_INFO: "_memory_info.log"
+FILE_POST_NETWORK_INFO: "_network_info.log"
+FILE_POST_DOCKER_STATS_INFO: "_docker_stats.log"
+FILE_POST_KUBE_TOP_INFO: "_kube_top_info.log"
+FILE_POST_POSTDISPATCH_LATENCY: "_postdispatch_latency.log"
+FILE_POST_PREDISPATCH_LATENCY: "_predispatch_latency.log"
+NODE_CONFIG_YML_FILE: "node_config.yml"
+
